@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jun 11 14:30:24 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0188-abb9-3fe0-0000167c0b98 
+on database directory /Users/parthpatel/Applications/Databricks_app/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@498ee6bb 
+Loaded from file:/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyspark/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_371-b11
+user.dir=/Users/parthpatel/Applications/Databricks_app
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
