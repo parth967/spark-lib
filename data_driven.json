@@ -1,0 +1,5 @@
+{
+    "environment":"local",
+    "data-type":"csv",
+    "data-file":"Netflix_Revenue.csv"
+}
