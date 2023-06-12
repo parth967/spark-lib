@@ -5,11 +5,13 @@ import os
 
 spark_init = SparkInitialization()
 spark = spark_init._init_spark()
+
+env_info = spark.read()
 current_directory = os.getcwd()
 
 delta_path = os.path.join(current_directory, 'data/delta_tables')
 prev_version = 0
-current_version = 1
+current_version = 1 
 
 main_table = f'{delta_path}/maint1'
 cloned_table = f'{delta_path}/cloned1'
